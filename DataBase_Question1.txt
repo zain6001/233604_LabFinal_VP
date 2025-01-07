@@ -1,0 +1,8 @@
+create database wpfFinal
+use wpfFinal
+CREATE TABLE Questions (
+    id INT IDENTITY(1,1) PRIMARY KEY,
+    QuestionText NVARCHAR(255),
+    CorrectAnswer NVARCHAR(50),
+    AssignedMarks INT
+);
