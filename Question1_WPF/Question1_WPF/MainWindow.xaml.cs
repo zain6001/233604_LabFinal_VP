@@ -86,5 +86,53 @@ namespace Question1_WPF
             this.Close();
 
         }
+
+        private void DelButton_Click(object sender, RoutedEventArgs e)
+        {
+
+
+                try
+                {
+                    int questionId = int.Parse(DeleteTextBox.Text); 
+ 
+
+                    using (SqlConnection connection = new SqlConnection(ConnectionString))
+                    {
+                        connection.Open();
+                        string query = "DELETE FROM Questions WHERE id = @id";
+                        using (SqlCommand command = new SqlCommand(query, connection))
+                        {
+                            command.Parameters.AddWithValue("@id", questionId);
+                            int rowsAffected = command.ExecuteNonQuery();
+
+                            if (rowsAffected > 0)
+                            {
+                                MessageBox.Show("Record deleted successfully.", "Success", MessageBoxButton.OK, MessageBoxImage.Information);
+                            }
+                            else
+                            {
+                                MessageBox.Show("No record found with the given ID.", "Not Found", MessageBoxButton.OK, MessageBoxImage.Warning);
+                            }
+                        }
+                    }
+                }
+                catch (FormatException)
+                {
+                    MessageBox.Show("Please enter a valid numeric ID.", "Invalid Input", MessageBoxButton.OK, MessageBoxImage.Error);
+                }
+                catch (SqlException ex)
+                {
+                    MessageBox.Show($"An error occurred while deleting the record:\n{ex.Message}", "Database Error", MessageBoxButton.OK, MessageBoxImage.Error);
+                }
+                catch (Exception ex)
+                {
+                    MessageBox.Show($"An unexpected error occurred:\n{ex.Message}", "Error", MessageBoxButton.OK, MessageBoxImage.Error);
+                }
+            LoadData();
+
+
+
+
+        }
     }
 }

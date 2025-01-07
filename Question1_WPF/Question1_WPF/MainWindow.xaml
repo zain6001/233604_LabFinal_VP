@@ -13,11 +13,18 @@
             <Label Content="Enter  Question"/>
             <TextBox  Name="questionNameTextBox" />
             <Label Content="Correct Answer"/>
+            
             <TextBox  Name="correctAnswerTextBox" />
             <Label Content="Marks"/>
             <TextBox  Name="MarksTextBox"/>
+            
+            
 
             <Button FontWeight="bold" Background="LightBlue"  x:Name="SaveButton" Margin="0 20 0 0" Content="Save Question" Click="SaveButton_Click"/>
+
+
+            <TextBox  Name="DeleteTextBox" Height="22" Margin="0 20 0 0" />
+            <Button FontWeight="bold" Background="LightBlue"  x:Name="DelButton" Margin="0 20 0 0" Content="Delete Question" Click="DelButton_Click" />
 
 
             <Button FontWeight="bold" Background="LightBlue"  Name="StartQuiz" Content="Start Quiz" Click="SaveQuestion_Click" Margin="0 20 0 0"  />
