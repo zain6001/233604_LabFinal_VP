@@ -1,30 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\zain\\Desktop\\Lab_Final\\BlazorApp1\\",
+  "WorkspaceRootPath": "C:\\Users\\zain\\source\\repos\\BlazorApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8A3982B9-264C-40F1-8EE8-8099C1A60B38}|BlazorApp1\\BlazorApp1.csproj|c:\\users\\zain\\desktop\\lab_final\\blazorapp1\\blazorapp1\\components\\pages\\todo.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8A3982B9-264C-40F1-8EE8-8099C1A60B38}|BlazorApp1\\BlazorApp1.csproj|solutionrelative:blazorapp1\\components\\pages\\todo.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B7597310-F8CA-4887-BF02-F28955417935}|BlazorApp1\\BlazorApp1.csproj|c:\\users\\zain\\source\\repos\\blazorapp1\\blazorapp1\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B7597310-F8CA-4887-BF02-F28955417935}|BlazorApp1\\BlazorApp1.csproj|solutionrelative:blazorapp1\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A3982B9-264C-40F1-8EE8-8099C1A60B38}|BlazorApp1\\BlazorApp1.csproj|c:\\users\\zain\\desktop\\lab_final\\blazorapp1\\blazorapp1\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8A3982B9-264C-40F1-8EE8-8099C1A60B38}|BlazorApp1\\BlazorApp1.csproj|solutionrelative:blazorapp1\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B7597310-F8CA-4887-BF02-F28955417935}|BlazorApp1\\BlazorApp1.csproj|c:\\users\\zain\\source\\repos\\blazorapp1\\blazorapp1\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B7597310-F8CA-4887-BF02-F28955417935}|BlazorApp1\\BlazorApp1.csproj|solutionrelative:blazorapp1\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A3982B9-264C-40F1-8EE8-8099C1A60B38}|BlazorApp1\\BlazorApp1.csproj|c:\\users\\zain\\desktop\\lab_final\\blazorapp1\\blazorapp1\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8A3982B9-264C-40F1-8EE8-8099C1A60B38}|BlazorApp1\\BlazorApp1.csproj|solutionrelative:blazorapp1\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B7597310-F8CA-4887-BF02-F28955417935}|BlazorApp1\\BlazorApp1.csproj|c:\\users\\zain\\source\\repos\\blazorapp1\\blazorapp1\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B7597310-F8CA-4887-BF02-F28955417935}|BlazorApp1\\BlazorApp1.csproj|solutionrelative:blazorapp1\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A3982B9-264C-40F1-8EE8-8099C1A60B38}|BlazorApp1\\BlazorApp1.csproj|c:\\users\\zain\\desktop\\lab_final\\blazorapp1\\blazorapp1\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8A3982B9-264C-40F1-8EE8-8099C1A60B38}|BlazorApp1\\BlazorApp1.csproj|solutionrelative:blazorapp1\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A3982B9-264C-40F1-8EE8-8099C1A60B38}|BlazorApp1\\BlazorApp1.csproj|c:\\users\\zain\\desktop\\lab_final\\blazorapp1\\blazorapp1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{8A3982B9-264C-40F1-8EE8-8099C1A60B38}|BlazorApp1\\BlazorApp1.csproj|solutionrelative:blazorapp1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A3982B9-264C-40F1-8EE8-8099C1A60B38}|BlazorApp1\\BlazorApp1.csproj|c:\\users\\zain\\desktop\\lab_final\\blazorapp1\\blazorapp1\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8A3982B9-264C-40F1-8EE8-8099C1A60B38}|BlazorApp1\\BlazorApp1.csproj|solutionrelative:blazorapp1\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B7597310-F8CA-4887-BF02-F28955417935}|BlazorApp1\\BlazorApp1.csproj|c:\\users\\zain\\source\\repos\\blazorapp1\\blazorapp1\\components\\pages\\quizzes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B7597310-F8CA-4887-BF02-F28955417935}|BlazorApp1\\BlazorApp1.csproj|solutionrelative:blazorapp1\\components\\pages\\quizzes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,81 +26,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\zain\\Desktop\\Lab_Final\\BlazorApp1\\BlazorApp1\\appsettings.json",
-              "RelativeDocumentMoniker": "BlazorApp1\\appsettings.json",
-              "ToolTip": "C:\\Users\\zain\\Desktop\\Lab_Final\\BlazorApp1\\BlazorApp1\\appsettings.json",
-              "RelativeToolTip": "BlazorApp1\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-06T14:38:38.218Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Routes.razor",
-              "DocumentMoniker": "C:\\Users\\zain\\Desktop\\Lab_Final\\BlazorApp1\\BlazorApp1\\Components\\Routes.razor",
-              "RelativeDocumentMoniker": "BlazorApp1\\Components\\Routes.razor",
-              "ToolTip": "C:\\Users\\zain\\Desktop\\Lab_Final\\BlazorApp1\\BlazorApp1\\Components\\Routes.razor",
-              "RelativeToolTip": "BlazorApp1\\Components\\Routes.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\zain\\source\\repos\\BlazorApp1\\BlazorApp1\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "BlazorApp1\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\zain\\source\\repos\\BlazorApp1\\BlazorApp1\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "BlazorApp1\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-06T14:38:35.726Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "App.razor",
-              "DocumentMoniker": "C:\\Users\\zain\\Desktop\\Lab_Final\\BlazorApp1\\BlazorApp1\\Components\\App.razor",
-              "RelativeDocumentMoniker": "BlazorApp1\\Components\\App.razor",
-              "ToolTip": "C:\\Users\\zain\\Desktop\\Lab_Final\\BlazorApp1\\BlazorApp1\\Components\\App.razor",
-              "RelativeToolTip": "BlazorApp1\\Components\\App.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-06T14:38:30.031Z"
+              "WhenOpened": "2025-01-07T15:00:30.537Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "NavMenu.razor",
-              "DocumentMoniker": "C:\\Users\\zain\\Desktop\\Lab_Final\\BlazorApp1\\BlazorApp1\\Components\\Layout\\NavMenu.razor",
-              "RelativeDocumentMoniker": "BlazorApp1\\Components\\Layout\\NavMenu.razor",
-              "ToolTip": "C:\\Users\\zain\\Desktop\\Lab_Final\\BlazorApp1\\BlazorApp1\\Components\\Layout\\NavMenu.razor",
-              "RelativeToolTip": "BlazorApp1\\Components\\Layout\\NavMenu.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-06T14:20:41.733Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Todo.razor",
-              "DocumentMoniker": "C:\\Users\\zain\\Desktop\\Lab_Final\\BlazorApp1\\BlazorApp1\\Components\\Pages\\Todo.razor",
-              "RelativeDocumentMoniker": "BlazorApp1\\Components\\Pages\\Todo.razor",
-              "ToolTip": "C:\\Users\\zain\\Desktop\\Lab_Final\\BlazorApp1\\BlazorApp1\\Components\\Pages\\Todo.razor",
-              "RelativeToolTip": "BlazorApp1\\Components\\Pages\\Todo.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-06T14:18:39.945Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Home.razor",
-              "DocumentMoniker": "C:\\Users\\zain\\Desktop\\Lab_Final\\BlazorApp1\\BlazorApp1\\Components\\Pages\\Home.razor",
-              "RelativeDocumentMoniker": "BlazorApp1\\Components\\Pages\\Home.razor",
-              "ToolTip": "C:\\Users\\zain\\Desktop\\Lab_Final\\BlazorApp1\\BlazorApp1\\Components\\Pages\\Home.razor",
-              "RelativeToolTip": "BlazorApp1\\Components\\Pages\\Home.razor",
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\zain\\source\\repos\\BlazorApp1\\BlazorApp1\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "BlazorApp1\\Components\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\zain\\source\\repos\\BlazorApp1\\BlazorApp1\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "BlazorApp1\\Components\\Layout\\MainLayout.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-06T14:17:52.521Z"
+              "WhenOpened": "2025-01-07T15:00:27.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Error.razor",
+              "DocumentMoniker": "C:\\Users\\zain\\source\\repos\\BlazorApp1\\BlazorApp1\\Components\\Pages\\Error.razor",
+              "RelativeDocumentMoniker": "BlazorApp1\\Components\\Pages\\Error.razor",
+              "ToolTip": "C:\\Users\\zain\\source\\repos\\BlazorApp1\\BlazorApp1\\Components\\Pages\\Error.razor",
+              "RelativeToolTip": "BlazorApp1\\Components\\Pages\\Error.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-07T14:59:07.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Quizzes.razor",
+              "DocumentMoniker": "C:\\Users\\zain\\source\\repos\\BlazorApp1\\BlazorApp1\\Components\\Pages\\Quizzes.razor",
+              "RelativeDocumentMoniker": "BlazorApp1\\Components\\Pages\\Quizzes.razor",
+              "ToolTip": "C:\\Users\\zain\\source\\repos\\BlazorApp1\\BlazorApp1\\Components\\Pages\\Quizzes.razor",
+              "RelativeToolTip": "BlazorApp1\\Components\\Pages\\Quizzes.razor",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAwwGYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-07T14:58:10.356Z"
             }
           ]
         }
