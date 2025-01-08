@@ -24,15 +24,15 @@ namespace Question1_WPF
         public User()
         {
             InitializeComponent();
-            LoadData();
         }
 
         string ConnectionString = "Data Source=DESKTOP-6CLP6M9\\SQLEXPRESS;Initial Catalog=wpfFinal;Integrated Security=True;Trust Server Certificate=True";
 
 
-        public void LoadData()
+        public void LoadData(string level)
         {
-            string query = $"select id,QuestionText from Questions";
+            string query = $"SELECT id, QuestionText FROM Questions WHERE level = '{level}'";
+
             try
             {
                 SqlConnection con = new SqlConnection(ConnectionString);
@@ -88,7 +88,6 @@ namespace Question1_WPF
                 MessageBox.Show($"{ex}");
             }
 
-            LoadData();
 
         }
 
@@ -99,9 +98,12 @@ namespace Question1_WPF
             this.Close();
         }
 
-        private void Shift_Click(object sender, RoutedEventArgs e)
+
+
+        private void difficultyComboBox_SelectionChanged_1(object sender, SelectionChangedEventArgs e)
         {
-            MessageBox.Show("Your dificulty level  is switched", "Success", MessageBoxButton.OK);
+            string selectedDifficulty = (difficultyComboBox.SelectedItem as ComboBoxItem)?.Content.ToString();
+            LoadData(selectedDifficulty);
         }
     }
 }

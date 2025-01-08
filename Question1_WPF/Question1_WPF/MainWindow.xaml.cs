@@ -58,10 +58,10 @@ namespace Question1_WPF
             }
             string qn=questionNameTextBox.Text;
             string ca=correctAnswerTextBox.Text;
-           int m = int.Parse(MarksTextBox.Text);
-           
-         
-            string query = $"insert into Questions(questionText,CorrectAnswer,assignedMarks) values ('{qn}','{ca}','{m}')";
+            int m = int.Parse(MarksTextBox.Text);
+            string sd= difficultyComboBox.Text; 
+
+            string query = $"insert into Questions(questionText,CorrectAnswer,assignedMarks ,level ) values ('{qn}','{ca}','{m}','{sd}')";
             try
             {
                 SqlConnection con = new SqlConnection(ConnectionString);

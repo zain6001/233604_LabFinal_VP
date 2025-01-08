@@ -1,25 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\zain\\Documents\\GitHub\\233604_LabFinal_VP\\Question1_WPF\\",
+  "WorkspaceRootPath": "C:\\Users\\zain\\Desktop\\VP_Lab_Final\\Question1_WPF\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E2E50520-868F-464C-A465-EFFD18489D1A}|Question1_WPF\\Question1_WPF.csproj|c:\\users\\zain\\documents\\github\\233604_labfinal_vp\\question1_wpf\\question1_wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E2E50520-868F-464C-A465-EFFD18489D1A}|Question1_WPF\\Question1_WPF.csproj|solutionrelative:question1_wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E2E50520-868F-464C-A465-EFFD18489D1A}|Question1_WPF\\Question1_WPF.csproj|c:\\users\\zain\\documents\\github\\233604_labfinal_vp\\question1_wpf\\question1_wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{E2E50520-868F-464C-A465-EFFD18489D1A}|Question1_WPF\\Question1_WPF.csproj|solutionrelative:question1_wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E2E50520-868F-464C-A465-EFFD18489D1A}|Question1_WPF\\Question1_WPF.csproj|c:\\users\\zain\\documents\\github\\233604_labfinal_vp\\question1_wpf\\question1_wpf\\user.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E2E50520-868F-464C-A465-EFFD18489D1A}|Question1_WPF\\Question1_WPF.csproj|c:\\users\\zain\\desktop\\vp_lab_final\\question1_wpf\\question1_wpf\\user.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E2E50520-868F-464C-A465-EFFD18489D1A}|Question1_WPF\\Question1_WPF.csproj|solutionrelative:question1_wpf\\user.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E2E50520-868F-464C-A465-EFFD18489D1A}|Question1_WPF\\Question1_WPF.csproj|c:\\users\\zain\\documents\\github\\233604_labfinal_vp\\question1_wpf\\question1_wpf\\user.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{E2E50520-868F-464C-A465-EFFD18489D1A}|Question1_WPF\\Question1_WPF.csproj|c:\\users\\zain\\desktop\\vp_lab_final\\question1_wpf\\question1_wpf\\user.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{E2E50520-868F-464C-A465-EFFD18489D1A}|Question1_WPF\\Question1_WPF.csproj|solutionrelative:question1_wpf\\user.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E2E50520-868F-464C-A465-EFFD18489D1A}|Question1_WPF\\Question1_WPF.csproj|c:\\users\\zain\\documents\\github\\233604_labfinal_vp\\question1_wpf\\question1_wpf\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E2E50520-868F-464C-A465-EFFD18489D1A}|Question1_WPF\\Question1_WPF.csproj|c:\\users\\zain\\desktop\\vp_lab_final\\question1_wpf\\question1_wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2E50520-868F-464C-A465-EFFD18489D1A}|Question1_WPF\\Question1_WPF.csproj|solutionrelative:question1_wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2E50520-868F-464C-A465-EFFD18489D1A}|Question1_WPF\\Question1_WPF.csproj|c:\\users\\zain\\desktop\\vp_lab_final\\question1_wpf\\question1_wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E2E50520-868F-464C-A465-EFFD18489D1A}|Question1_WPF\\Question1_WPF.csproj|solutionrelative:question1_wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2E50520-868F-464C-A465-EFFD18489D1A}|Question1_WPF\\Question1_WPF.csproj|c:\\users\\zain\\desktop\\vp_lab_final\\question1_wpf\\question1_wpf\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E2E50520-868F-464C-A465-EFFD18489D1A}|Question1_WPF\\Question1_WPF.csproj|solutionrelative:question1_wpf\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -30,27 +30,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "User.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\zain\\Documents\\GitHub\\233604_LabFinal_VP\\Question1_WPF\\Question1_WPF\\User.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\zain\\Desktop\\VP_Lab_Final\\Question1_WPF\\Question1_WPF\\User.xaml.cs",
               "RelativeDocumentMoniker": "Question1_WPF\\User.xaml.cs",
-              "ToolTip": "C:\\Users\\zain\\Documents\\GitHub\\233604_LabFinal_VP\\Question1_WPF\\Question1_WPF\\User.xaml.cs",
+              "ToolTip": "C:\\Users\\zain\\Desktop\\VP_Lab_Final\\Question1_WPF\\Question1_WPF\\User.xaml.cs",
               "RelativeToolTip": "Question1_WPF\\User.xaml.cs",
-              "ViewState": "AgIAADcAAAAAAAAAAAAqwE0AAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAqwCAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T09:04:22.323Z"
+              "WhenOpened": "2025-01-07T09:04:22.323Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "User.xaml",
-              "DocumentMoniker": "C:\\Users\\zain\\Documents\\GitHub\\233604_LabFinal_VP\\Question1_WPF\\Question1_WPF\\User.xaml",
+              "DocumentMoniker": "C:\\Users\\zain\\Desktop\\VP_Lab_Final\\Question1_WPF\\Question1_WPF\\User.xaml",
               "RelativeDocumentMoniker": "Question1_WPF\\User.xaml",
-              "ToolTip": "C:\\Users\\zain\\Documents\\GitHub\\233604_LabFinal_VP\\Question1_WPF\\Question1_WPF\\User.xaml",
+              "ToolTip": "C:\\Users\\zain\\Desktop\\VP_Lab_Final\\Question1_WPF\\Question1_WPF\\User.xaml",
               "RelativeToolTip": "Question1_WPF\\User.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-01-07T08:59:15.028Z"
@@ -59,9 +60,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "AssemblyInfo.cs",
-              "DocumentMoniker": "C:\\Users\\zain\\Documents\\GitHub\\233604_LabFinal_VP\\Question1_WPF\\Question1_WPF\\AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\zain\\Desktop\\VP_Lab_Final\\Question1_WPF\\Question1_WPF\\AssemblyInfo.cs",
               "RelativeDocumentMoniker": "Question1_WPF\\AssemblyInfo.cs",
-              "ToolTip": "C:\\Users\\zain\\Documents\\GitHub\\233604_LabFinal_VP\\Question1_WPF\\Question1_WPF\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\zain\\Desktop\\VP_Lab_Final\\Question1_WPF\\Question1_WPF\\AssemblyInfo.cs",
               "RelativeToolTip": "Question1_WPF\\AssemblyInfo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -69,27 +70,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\zain\\Documents\\GitHub\\233604_LabFinal_VP\\Question1_WPF\\Question1_WPF\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\zain\\Desktop\\VP_Lab_Final\\Question1_WPF\\Question1_WPF\\MainWindow.xaml",
               "RelativeDocumentMoniker": "Question1_WPF\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\zain\\Documents\\GitHub\\233604_LabFinal_VP\\Question1_WPF\\Question1_WPF\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\zain\\Desktop\\VP_Lab_Final\\Question1_WPF\\Question1_WPF\\MainWindow.xaml",
               "RelativeToolTip": "Question1_WPF\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-01-07T08:20:43.382Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\zain\\Documents\\GitHub\\233604_LabFinal_VP\\Question1_WPF\\Question1_WPF\\MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\zain\\Desktop\\VP_Lab_Final\\Question1_WPF\\Question1_WPF\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "Question1_WPF\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\zain\\Documents\\GitHub\\233604_LabFinal_VP\\Question1_WPF\\Question1_WPF\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\zain\\Desktop\\VP_Lab_Final\\Question1_WPF\\Question1_WPF\\MainWindow.xaml.cs",
               "RelativeToolTip": "Question1_WPF\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAHAAAAAAAAAAAAAmwIIAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAkwDkAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T08:20:41.794Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-07T08:20:41.794Z"
             }
           ]
         }

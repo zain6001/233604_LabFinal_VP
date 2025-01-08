@@ -10,16 +10,21 @@
         <StackPanel>
             <Label Content="Your Marks"/>
             <TextBox Name="Score" Text="0" />
+            <ComboBox Name="difficultyComboBox" Width="150" Height="20" Margin="0 20 0 20 " VerticalAlignment="Center" HorizontalAlignment="Center" SelectionChanged="difficultyComboBox_SelectionChanged_1">
+                <ComboBoxItem>Easy</ComboBoxItem>
+                <ComboBoxItem>Medium</ComboBoxItem>
+                <ComboBoxItem>Hard</ComboBoxItem>
+            </ComboBox>
             <DataGrid Name="QuestionDataGrid" Height="158"/>
             <Label Content="Enter Id of Q.NO  "/>
             <TextBox Name="qIdTextBox"/>
             <Label Content="Enter Answer  "/>
             <TextBox Name="answerTextBox"/>
-            <Button  Background="LightBlue"  Name="SaveQuestion"  Margin="0 20 0 0" Content="SaveQuestion" Click="SaveQuestion_Click"  />
+            <Button  Background="LightBlue"  Name="SaveQuestion"  Margin="0 20 0 0" Content="Submit Question" Click="SaveQuestion_Click"  />
 
             <Button  Background="LightBlue"  Name="QuitQuiz" Content="Quit Quiz" Margin="0 20 0 0" Click="QuitQuiz_Click"  />
 
-            <Button  Background="LightBlue"  Name="Shift" Content="Switch Dificulty Level " Margin="0 20 0 0" Click="Shift_Click"  />
+
 
 
         </StackPanel>
